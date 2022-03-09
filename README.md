@@ -3,7 +3,9 @@
 ##The course explores the following paraigms: 
   
 -Procedural Programming 
+
 -Imperative Programming
+
 -Structured Programming
 
 The goal of the course is to teach PLC (Ladder Logic) programming that so larger complicated programs can 
