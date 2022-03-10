@@ -1,4 +1,4 @@
-# General PLC programming course with emphasize on the used of different programming paradigms.
+# General PLC programming 
 
 ## The course explores the following paraigms: 
   
