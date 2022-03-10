@@ -1,3 +1,15 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDD520H57J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZDD520H57J');
+</script>
+
+
+
+
 ## General PLC Programming Course
 
 # **This course is beginning stages of development**
@@ -20,6 +32,9 @@ code in a time sensitive manner.
 #### [PLC Programming - Part 2 - Using Control Structure to Write Sequence](PowerPoint/PLC programming - Part 2 - Using a Control Structure.pptx)
 #### PLC Programming - Part 3 - Develop A Common Framework 
 
+### Contact
+Manuel Ramos
+[Resume](https://ramo1266.github.io/Resume/)
 
 
 
