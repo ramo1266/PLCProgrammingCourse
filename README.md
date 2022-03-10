@@ -2,16 +2,17 @@
 
 # **This course is beginning stages of development**
 
-## The course explores the following paraigms: 
-  
-- Structured Programming
+### Goal: 
 
 The goal of the course is to teach PLC (Ladder Logic) programming so that large programs can 
 be reduced down to a set of functions or modules. Using the techinques discuss will allows a team to work on 
 a project. Also, allows an individual with no prior knowledge of the system to quicky understand and modify the
 code in a time sensitive manner.
 
-## Courses 
+- Structured Programming
+
+
+### Courses 
 
 #### [Introduction to PLC](PowerPoint/Introduction To PLC programming.pptx)
 #### [Introduction to PLC Programming](PowerPoint/Introduction To PLC.pptx)
