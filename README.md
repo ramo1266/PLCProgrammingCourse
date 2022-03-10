@@ -1,4 +1,4 @@
-# General PLC programming 
+# General PLC Programming Course
 
 ## The course explores the following paraigms: 
   
