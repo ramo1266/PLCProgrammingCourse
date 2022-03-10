@@ -1,6 +1,6 @@
 # General PLC Programming Course
 
-** This course is beginning stages of development **
+**This course is beginning stages of development**
 
 ## The course explores the following paraigms: 
   
