@@ -13,8 +13,8 @@ code in a time sensitive manner.
 
 ## Courses 
 
-#### Introduction to PLC 
-#### Introduction to PLC Programming
+#### [Introduction to PLC] (./PowerPoint/Introduction To PLC programming.pptx)
+#### [Introduction to PLC Programming] (./PowerPoint/Introduction To PLC.pptx)
 #### PLC Programming - Part 1 -  Problems With Large Programs and Solution 
 #### PLC Programming - Part 2 - Using Control Structure to Write Sequence
 #### PLC Programming - Part 3 - Develop A Common Framework 
