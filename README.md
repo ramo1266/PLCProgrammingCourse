@@ -15,8 +15,8 @@ code in a time sensitive manner.
 
 #### [Introduction to PLC](PowerPoint/Introduction To PLC programming.pptx)
 #### [Introduction to PLC Programming](PowerPoint/Introduction To PLC.pptx)
-#### PLC Programming - Part 1 -  Problems With Large Programs and Solution 
-#### PLC Programming - Part 2 - Using Control Structure to Write Sequence
+#### [PLC Programming - Part 1 -  Problems With Large Programs and Solution](PowerPoint/PLC programming - Part 1 - Problems with Large Programs and Solution.pptx)
+#### [PLC Programming - Part 2 - Using Control Structure to Write Sequence](PowerPoint/PLC programming - Part 2 - Using a Control Structure.pptx)
 #### PLC Programming - Part 3 - Develop A Common Framework 
 
 
