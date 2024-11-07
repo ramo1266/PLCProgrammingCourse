@@ -16,8 +16,20 @@ code in a time sensitive manner.
 
 ### Courses 
 
-#### [Introduction to PLC](PowerPoint/Introduction To PLC programming.pptx)
-#### [Introduction to PLC Programming](PowerPoint/Introduction To PLC.pptx)
+
+#### [Introduction to PLC](PowerPoint/PLC programming - 0 -Introduction To PLC.pptx)
+#### [What are Program Paradgm](PLC programming - 1 - What are Program Paradgm.pptx)
+#### [Imperative Programming](PLC programming - 2 - Imperative Programming.pptx)
+#### [Structure Program](PLC programming - 3 - Structure Program.pptx)
+#### [Imperative Vs Structure Programming](PLC programming - 4 - Imperative Vs Structure Programming.pptx)
+#### [Introduction to PLC Programming](PLC programming - 5 - Introduction To PLC programming.pptx)
+#### [Problems with Large Programs and Solution](PLC programming - 6 - Problems with Large Programs and Solution.pptx)
+#### [Using a Control Structure](PLC programming - 7 - Using a Control Structure.pptx)
+
+
+
+### Older Files
+
 #### [PLC Programming - Part 1 -  Problems With Large Programs and Solution](PowerPoint/PLC programming - Part 1 - Problems with Large Programs and Solution.pptx)
 #### [PLC Programming - Part 2 - Using Control Structure to Write Sequence](PowerPoint/PLC programming - Part 2 - Using a Control Structure.pptx)
 #### PLC Programming - Part 3 - Develop A Common Framework 
